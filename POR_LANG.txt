@@ -254,8 +254,8 @@ Check no GPS duration for jamming detection(sec.)=Tempo P/ Detectar Jammer[s]
 Check no GPS duration for jamming(Sec.)(1063)=Tempo P/ Detectar Jammer[s](1063)
 Check no GPS duration for jamming(Sec)(1063)=Tempo P/ Detectar Jammer[s](1063)
 Circular Geofence=Cerca Circular
-Circular Output Active(9001)=Ativar Saida na Cerca Circular(9001)
-Circular Buzzer Speed Limit(9002)=Buzzer por Limite de Velocidade na Cerca Circular(9002)
+Circular Output Active(9001)=Ativar Saida na Cerca Circular/Retangular(9001)
+Circular Buzzer Speed Limit(9002)=Buzzer por Limite de Velocidade na Cerca Circular/Retangular(9002)
 Close Connection=Fechar Conexao GPRS
 CloseConnection=Fechar Conexao GPRS
 Collision=Colisao
@@ -1479,7 +1479,7 @@ Longitude of Right-Bottom=Longitude Inferior Direita
 Delay ativar saida=Tempo para ativar saida
 SPEED_1=Velocidade
 BUZZER_SPEED_LIMIT=Limite de velocidade do buzzer
-SPEED_LIMIT_DEBOUNCE=Tempo do limite de Velocidade
+SPEED_LIMIT_DEBOUNCE=Tempo Entrar Lim. Vel[s]
 
 #############################T25T
 //Equipamento ST25T   um duplicador de RS232
@@ -1588,7 +1588,7 @@ Door sensor enable=Sensor de Porta
 TPMS enable=TMPS Ativado
 SPEED_1=Velocidade 1
 BUZZER_SPEED_LIMIT=Buzzer para Velocidade
-SPEED_LIMIT_DEBOUNCE=Delay para Limite de Velocidade
+SPEED_LIMIT_DEBOUNCE=Tempo Entrar Lim. Vel[s]
 IN=Entrada
 OUT=Saida
 Geo ID=ID da Cerca
