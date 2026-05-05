@@ -1468,8 +1468,8 @@ Over RPM(156)=ST25 Limite de RPM excedido(156)
 Completed RPM CAL(157)=ST25 Calibracao de RPM Concluida(157)
 Completed Odoemter CAL(158)=ST25 Calibracao de Odometro Concluida(158)
 Over Speed Time(172)=Limite de Velocidade acima do tempo(172)
-Over Speed in Rectangle(209)=Excesso de velocidade na cerca retangular(209)
-Under Speed in Rectangle(210)=Retorno do excesso de velocidade na cerca retangular(210)
+Over Speed in Rectangle(209)=Alta Velocidade na cerca retangular(209)
+Under Speed in Rectangle(210)=Baixa Velocidade na cerca retangular(210)
 
 #############################ST8300
 Latitude of Left-Top=Latitude Superior Esquerda
