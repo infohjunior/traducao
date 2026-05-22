@@ -1670,4 +1670,5 @@ Enter Emergency Park Mode(164)=Entrada em Emergencia no modo Parado(164)
 Enter Emergency Drive Mode(165)=Entrada em Emergencia no Modo Movimento(165)
 Carton Box Closed(167)=Caixa Fechada(167)
 Turn Off(189)=Alerta de Isca Desligada(189)
+Sensor Config=Sensor de Luz
 Turn On(190)=Alerta de Isca Ligada(190)
