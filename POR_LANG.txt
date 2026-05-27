@@ -1672,3 +1672,6 @@ Carton Box Closed(167)=Caixa Fechada(167)
 Turn Off(189)=Alerta de Isca Desligada(189)
 Sensor Config=Sensor de Luz
 Turn On(190)=Alerta de Isca Ligada(190)
+LBS_GNSS Config=Assistente GNSS/LBS=Assistente de GNSS
+GNSS Accuracy Filter Use(5602)=Filtro de Precisao(5602)
+GNSS Accuracy Filter Threshold(5603)=Limite minimo do Filtro(5603)
