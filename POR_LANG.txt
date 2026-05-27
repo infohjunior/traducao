@@ -1372,7 +1372,18 @@ Timeout for ERB Dev10 (Min)(2557)=Tempo de Envio de Comando Dispositivo 10[min](
 Type of Cmd for ERB Dev10(2558)=Tipo de Comando para Dispositivo 10(2558)
 Customer for ERB Dev10(2559)=Codigo do Cliente do Dispositivo 10(2559)
 Channel for ERB Dev10(2560)=Canal de RF do Dispositivo 10(2560)
-
+Bluetooth=40 Bluetooth
+BLE Activation(4070)=Conexao Bluetooth(4070)
+BLE Disabled=Desabilitar
+BLE Always Enabled=Sempre Habilitado
+BLE Enabled only when IGN ON=Somente com Ignicao Ligada
+BLE Mode(4071)=Modo de Conexao(4071)
+BLE Client=Cliente: iButton/iTag
+BLE Server=Servidor: Sensores/Teclado
+Advertising Name(4072)=Nome do Dispositivo(4072)
+Active Time Aft Ign Off(4073)=Tempo Ativo Apos Ignicao Desligada[s](4073)
+Minimum RSSI(4074)=Intensidade de deteccao(RSSI)[dBm](4074)
+Filter Advertised Name(4075)=Filtro de Identificacao(4075)
 Include GPS in PMR(2564)=Incluir Dados de GPS na Msg de Presenca(2564)
 Channel for Presence Function(2565)=Canal RF da Presenca(2565)
 Num of TX in EMG(2566)=Numero de Transmissoes RF em Emergencia(2566)
@@ -1431,7 +1442,6 @@ Presence Function=25 Modo Presenca
 Movement Sensor=19 Sensor de Movimento
 Accelerometer=19 Sensor de Movimento
 Device Config=27 Config Extras
-
 ERB Disabled=Desabilitar
 ERB Always Enabled=Habilitar
 ERB Enabled only when IGN is ON=Habilitar com Ignicao On
@@ -1440,10 +1450,24 @@ Stop Emergency
 Coordinator=Mestre
 Participant=Escravo
 Emg and Alert=Emergencia E Alerta
-
 Call 1 button=Botao de Chamada 1
 Call 2 button=Botao de Chamada 2
 Speaker Volume Up button=Botao Volume Chamada
+Dashboard Violation OPEN=Violacao de Painel(Aberta)
+Dashboard Violation GND=Violacao de Painel(GND)
+Dashboard Violation(166)=Violacao de Painel(166)
+Dashboard Normalization(230)=Normalizacao de Painel(230)
+Permanent Entry=Entrada Permanente
+Pre Alarm 1=Pre-Alarme1
+Pre Alarm 2=Pre-Alarme2
+BLE ACK Enable(4079)=Habilitar BLE ACK(4079)
+BLE ACK String(4080)=String BLE ACK(4080)
+Geo ID=ID da Cerca
+IN=Evento de Entrada
+OUT=Evento de Saida
+BLE Connection/Disconnection(170)=Conexao e Desconexao do BLE(170)
+BLE Start/Stop Advertisement(171)=Inicio e Parada do BLE(171)
+iTag Inserted(59)=iTag Inserido(59)
 
 #########################ST8300H+ST25
 
@@ -1495,20 +1519,8 @@ Motion Duration(1908)=Tempo P/ Detectar Movimento[s](1908)
 Emergency by Input (2710)=Emergencia por Acionamento da Entrada(2710)
 Emergency by Main Power Removal(2711)=Emergencia por Remocao da Bateria Principal(2711)
 
-#############################ST8395 Bluetooth
 
-Bluetooth=40 Bluetooth
-BLE Activation(4070)=Conexao Bluetooth(4070)
-BLE Disabled=Desabilitar
-BLE Always Enabled=Sempre Habilitado
-BLE Enabled only when IGN ON=Somente com Ignicao Ligada
-BLE Mode(4071)=Modo de Conexao(4071)
-BLE Client=Cliente: iButton/iTag
-BLE Server=Servidor: Sensores/Teclado
-Advertising Name(4072)=Nome do Dispositivo(4072)
-Active Time Aft Ign Off(4073)=Tempo Ativo Apos Ignicao Desligada[s](4073)
-Minimum RSSI(4074)=Intensidade de deteccao(RSSI)[dBm](4074)
-Filter Advertised Name(4075)=Filtro de Identificacao(4075)
+
 
 Excess Idle1 Output Activation(1668)=Ativacao da Saida por Ociosidade do Tempo Limite 1(1668)
 Excess Idle1 Output Time(Sec.)(1669)=Duracao da Saida por Excesso de Ociosidade[s](1669)
@@ -1634,14 +1646,7 @@ LBS URL(5601)=URL(5601)
 Accuracy Filter Use(5602)=Filtro de Precisao(5602)
 Accuracy Filter Threshold(5603)=Limite minimo do Filtro(5603)
 
-######################### Traducao Para ST8395
-Dashboard Violation OPEN=Violacao de Painel(Aberta)
-Dashboard Violation GND=Violacao de Painel(GND)
-Dashboard Violation(166)=Violacao de Painel(166)
-Dashboard Normalization(230)=Normalizacao de Painel(230)
-Permanent Entry=Entrada Permanente
-Pre Alarm 1=Pre-Alarme1
-Pre Alarm 2=Pre-Alarme2
+
 
 ######################### Traducao Para ST8410
 
