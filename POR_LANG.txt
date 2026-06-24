@@ -1131,7 +1131,7 @@ ST20U Connect(70)=ST20U Conectado(70)
 ST20U Disconnect(71)=ST20U Desconectado(71)
 ST20U Speed Limit(2331)=ST20U Limite de Velocidade 2[km/h](2331)
 ST25T=Not Supported
-ST25T CAM Report Map(1092)=Not Supported(1092)
+ST25T CAM Report Map(1092)=Report Map da CAN(1092)
 ST25T Connect(85)=Not Supported(85)
 ST25T Disconnect(86)=Not Supported(86)
 ST25T Fuel Connect(89)=Not Supported(89)
@@ -1668,3 +1668,5 @@ LBS_GNSS Config=Assistente GNSS/LBS=Assistente de GNSS
 GNSS Accuracy Filter Use(5602)=Filtro de Precisao(5602)
 GNSS Accuracy Filter Threshold(5603)=Limite minimo do Filtro(5603)
 Buzzer Always On=Buzzer Permanente
+Specific LBS Server=LBS do Servidor
+Module LBS Server=LBS Integrado
