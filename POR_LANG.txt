@@ -906,7 +906,6 @@ Sim card is PUK-locked=Simcard PUK Bloqueado
 Sim Card Removed(72)=Simcard Removido(72)
 Slave=Escravo
 Sleep=Baixo Consumo de Energia
-SMS=10 SMS
 SMS Interval in Driving=Intervalo de Envio em Movimento por SMS
 SMS Interval in Parking=Intervalo de Envio Parado por SMS
 SMS Lock=Bloqueio de SMS
